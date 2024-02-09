@@ -31,4 +31,4 @@ The topic lists for which I have created this library can be found [here](https:
 [license-shield]: https://img.shields.io/github/license/ShahjalalShohag/code-library.svg?style=for-the-badge
 [license-url]: https://github.com/ShahjalalShohag/code-library/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ShahjalalShohag
+[linkedin-url]: https://www.linkedin.com/in/rabbi-hasan-712231244/
